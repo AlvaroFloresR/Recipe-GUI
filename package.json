@@ -1,0 +1,24 @@
+{
+  "name": "recipe-gui",
+  "version": "1.0.0",
+  "description": "Recipe App",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "AlvaroF",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.2.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "fractional": "^1.0.0",
+    "leaflet": "^1.6.0",
+    "lodash-es": "^4.17.15",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
