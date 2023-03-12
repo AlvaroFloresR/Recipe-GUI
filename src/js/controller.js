@@ -8,9 +8,6 @@ import addRecipeView from "./views/addRecipeView.js";
 
 import { MODAL_CLOSE_SEC } from "./config.js";
 
-import "core-js/stable";
-import "regenerator-runtime/runtime";
-
 // ----------------------------------------------------------------
 //                        Get API Socket
 // ----------------------------------------------------------------
