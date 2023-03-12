@@ -1,6 +1,8 @@
 # Recipe GUI
 GUI for Recipes with Vanilla Javascript
 
+LIVE DEMO: https://recipe-gui.netlify.app/
+
 ## Potential Improvements
 1. Sort option to recipes
 2. Delete Created Recipes
