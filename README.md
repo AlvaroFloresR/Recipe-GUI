@@ -7,6 +7,7 @@ GUI for Recipes with Vanilla Javascript
 3. Database implementation (MySQL)
 4. Edit Option for recipe
 5. Add nutritional value (e.g. https://spoonacular.com/food-api)
+6. JSDoc Documentation
 
 ## Tech Stack
 | Front End  | Back End | Services |
@@ -14,7 +15,7 @@ GUI for Recipes with Vanilla Javascript
 | HTML       | None     | Recipe API  |
 | CSS        |          |          |
 | JavaScript |          |          |
-
+| Parcel (Bundler) |          |          |
 ## Demo Images
 
 ### Searching Created Recipes
