@@ -14,7 +14,7 @@ GUI for Recipes with Vanilla Javascript
 | HTML       | None     | Recipe API  |
 | CSS        |          |          |
 | JavaScript |          |          |
-
+| Parcel (Bundler) |          |          |
 ## Demo Images
 
 ### Searching Created Recipes
